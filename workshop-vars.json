@@ -1,0 +1,14 @@
+{
+    "guid": "s5zm7",
+    "console_url": "https://console-openshift-console.apps.cluster-s5zm7.s5zm7.sandbox1541.opentlc.com",
+    "login_command": "oc login --insecure-skip-tls-verify=false -u user1 -p Mjk5NzIw https://api.cluster-s5zm7.s5zm7.sandbox1541.opentlc.com:6443",
+    "openshift_cluster_ingress_domain": "apps.cluster-s5zm7.s5zm7.sandbox1541.opentlc.com",
+    "openshift_console_url": "https://console-openshift-console.apps.cluster-s5zm7.s5zm7.sandbox1541.opentlc.com",
+    "password": "Mjk5NzIw",
+    "user": "user1",
+    "my": {
+        "deep": {
+            "var": "flattened data"
+        }
+    }
+}
